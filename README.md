@@ -28,18 +28,12 @@ Tujuannya sama seperti game klasik: bantu burung melewati pipa sebanyak mungkin 
 
 ## 💻 Instalasi & Cara Menjalankan Game
 
-1. Clone repository:
-
-```bash
-git clone https://github.com/username/repo.git
-cd repo
-## 💻 Instalasi & Cara Menjalankan Game
-2. Upgrade pip dan install pygame:
+1. Upgrade pip dan install pygame:
 ```bash
 python -m pip install --upgrade pip setuptools wheel
 python -m pip install pygame
 
-3.Jalankan game:
+2.Jalankan game:
 ```bash
 python flappy_bird.py
 
