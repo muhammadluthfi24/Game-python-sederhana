@@ -33,10 +33,7 @@ Tujuannya sama seperti game klasik: bantu burung melewati pipa sebanyak mungkin 
 python -m pip install --upgrade pip setuptools wheel
 python -m pip install pygame
 
+```bash
 2.Jalankan game:
 ```bash
 python flappy_bird.py
-
-Game akan terbuka di jendela baru.
-
-Nikmati bermain Flappy Bird versi Python!
