@@ -34,6 +34,7 @@ Tujuannya sama seperti game klasik: bantu burung melewati pipa sebanyak mungkin 
 ```bash
 git clone https://github.com/username/repo.git
 cd repo
+```bash
 2. Upgrade pip dan install pygame:
 python -m pip install --upgrade pip setuptools wheel
 python -m pip install pygame
