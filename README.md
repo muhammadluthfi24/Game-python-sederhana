@@ -17,7 +17,6 @@ Tujuannya sama seperti game klasik: bantu burung melewati pipa sebanyak mungkin 
 
 ---
 
-
 ## ⚙️ Persyaratan
 
 - Python 3.11 atau 3.12 (Windows disarankan)  
@@ -27,16 +26,10 @@ Tujuannya sama seperti game klasik: bantu burung melewati pipa sebanyak mungkin 
 
 ---
 
-## 💻 Instalasi
+## 💻 Instalasi & Cara Menjalankan Game
 
 1. Clone repository:
 
 ```bash
 git clone https://github.com/username/repo.git
 cd repo
-```bash
-2. Upgrade pip dan install pygame:
-python -m pip install --upgrade pip setuptools wheel
-python -m pip install pygame
-Cara Menjalankan Game
-python flappy_bird.py
