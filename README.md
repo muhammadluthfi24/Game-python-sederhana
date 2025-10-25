@@ -17,13 +17,6 @@ Tujuannya sama seperti game klasik: bantu burung melewati pipa sebanyak mungkin 
 
 ---
 
-## 🖼 Screenshot
-
-*(Tambahkan screenshot di sini)*  
-
-![Flappy Bird Screenshot](screenshot.png)
-
----
 
 ## ⚙️ Persyaratan
 
@@ -42,3 +35,7 @@ Tujuannya sama seperti game klasik: bantu burung melewati pipa sebanyak mungkin 
 git clone https://github.com/username/repo.git
 cd repo
 2. Upgrade pip dan install pygame:
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install pygame
+Cara Menjalankan Game
+python flappy_bird.py
